@@ -13,7 +13,7 @@ int main()
         c++;
     }
     int other, ans;
-    if (name.size() / 2 < count)
+    if (name.size() / 2 <= count)
         cout << name.size() << endl;
     else
     {
