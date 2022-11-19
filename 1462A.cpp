@@ -16,9 +16,10 @@ int main()
         for (int i = 0, j = n - 1; i < j + 1; i++, j--)
         {
             if (i != j)
-                cout << arr[i] << arr[j] << " ";
+                cout << arr[i] << " " << arr[j] << " ";
             if (i == j)
-                cout << arr[i] << " ";
+                cout
+                    << arr[i] << " ";
         }
         cout << endl;
     }
