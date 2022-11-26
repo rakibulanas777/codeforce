@@ -1,8 +1,2 @@
- // while (name[c] != '\0')
-    // {
-    //     for (int i = l; i <= r; i++)
-    //     {
 
-    //     }
-    //     c++;
-    // }
+    for (int i = 0; i < 5; i++)
